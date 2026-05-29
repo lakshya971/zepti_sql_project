@@ -238,10 +238,10 @@ ORDER BY total_weight DESC;
 
 > SQL queries from the project in pgAdmin:
 
-![Data Analysis Queries — Part 1](Screenshot_2026-05-29_125954.png)
+<img width="1059" height="698" alt="image" src="https://github.com/user-attachments/assets/07b50a03-8e4b-4985-b671-4695b75020a9" />
 *Queries Q1–Q4: Discount analysis, out-of-stock products, revenue estimation, pricing gaps*
 
-![Data Analysis Queries — Part 2](Screenshot_2026-05-29_130009.png)
+<img width="1239" height="752" alt="image" src="https://github.com/user-attachments/assets/aa7c1385-6e2d-4690-9cf0-a1a96cbd4e5f" />
 *Queries Q5–Q8: Category discounts, price-per-gram, weight segmentation, inventory weight*
 
 ---
